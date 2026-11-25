@@ -1,0 +1,8 @@
+Write one joke about Monday mornings, at most 200 characters, that a stand-up
+comic would pick as the funniest in a head-to-head. It must be genuinely about
+Monday morning, land a real punchline with a surprising twist (not just a
+complaint about Mondays), use few words with no wasted setup, and feel fresh —
+avoid the tired Monday cliches (coffee, hating Mondays, traffic, the alarm
+being loud). The joke used: "Monday morning my alarm went off, took one look
+at me, and hit snooze on itself." — the twist is the alarm clock, whose only
+job is to wake you, giving up first and snoozing itself.
